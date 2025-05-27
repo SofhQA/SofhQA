@@ -62,26 +62,18 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
-   <img src="[https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png)" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 </div>
-
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
-
 
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
 [<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат об окончании курса»">](https://raw.githubusercontent.com/SofhQA/SofhQA/refs/heads/main/certificate.png)
 
 <br>
 <br>
