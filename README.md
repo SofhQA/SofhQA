@@ -67,7 +67,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
-
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки»">](https://github.com/SofhQA/SofhQA/blob/main/certificate_auto.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки»">](https://github.com/SofhQA/SofhQA/blob/main/certificate_kvadra.png)
 <br>
 
 ## 🎒 Образование
