@@ -66,7 +66,7 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 🎒 Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки»">](https://github.com/SofhQA/SofhQA/blob/main/certificate_auto.png)
 [<img src="/certificate_kvadra.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки»">](https://github.com/SofhQA/SofhQA/blob/main/certificate_kvadra.png)
 <br>
@@ -79,4 +79,4 @@
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:sofhwan@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/wh0whatever)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rchessofa)
